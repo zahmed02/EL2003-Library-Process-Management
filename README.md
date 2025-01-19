@@ -22,6 +22,6 @@ To compile and run the project, follow these steps:
 4. Assemble the project and resolve any errors.
 5. Run the executable to start the Library Management System.
 
-6. ## Limitations
+## Limitations
 - The current implementation may have limitations in terms of the number of books and users it can handle, depending on the data structures used.
 - The user interface is text-based and may not be as user-friendly as graphical interfaces.
