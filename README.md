@@ -15,13 +15,13 @@ This project is a Library Management System developed in Assembly Language using
 - **Assembler**: Use an assembler compatible with Irvine32 (e.g., MASM).
 
 ## Compilation and Execution
-**To compile and run the project, follow these steps:
-**1. Open your assembly language IDE (e.g., Visual Studio, MASM).
-**2. Load the `Main.asm` file.
-**3. Ensure that the Irvine32 library is correctly linked.
-**4. Assemble the project and resolve any errors.
-**5. Run the executable to start the Library Management System.
+To compile and run the project, follow these steps:
+1. Open your assembly language IDE (e.g., Visual Studio, MASM).
+2. Load the `Main.asm` file.
+3. Ensure that the Irvine32 library is correctly linked.
+4. Assemble the project and resolve any errors.
+5. Run the executable to start the Library Management System.
 
 6. ## Limitations
-- **The current implementation may have limitations in terms of the number of books and users it can handle, depending on the data structures used.
-- **The user interface is text-based and may not be as user-friendly as graphical interfaces.
+- The current implementation may have limitations in terms of the number of books and users it can handle, depending on the data structures used.
+- The user interface is text-based and may not be as user-friendly as graphical interfaces.
